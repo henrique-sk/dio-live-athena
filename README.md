@@ -7,7 +7,7 @@ Repositório base para o desafio "Explorando Dados Demográficos com Serviços d
  - Amazon Athena
  - Amazon QuickSight
 
-### Etapas para desenvolvimento
+## Etapas para desenvolvimento
 
 ### Criar bucket no Amazon S3
 
