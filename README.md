@@ -1,5 +1,7 @@
 # desafio-dio
-Repositório base para o desafio "Explorando Dados Demográficos com Serviços de Big Data na AWS" do bootcamp Geração Tech Unimed-BH - Ciência de Dados.
+Repositório base para o desafio "Explorando Dados Demográficos com Serviços de Big Data na AWS" do bootcamp Ciência de Dados Geração Tech Unimed-BH da DIO (Digital Innovation One).
+
+*Todo o material desenvolvido durante as aulas pode ser encontrado [aqui](https://github.com/henrique-sk/Ciencia_de_Dados-DIO-Geracao_Tech_Unimed_BH).*
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
